@@ -23,8 +23,6 @@ Hi, I'm Idan Kapustian, a self-taught developer
 <br />
 <br />
 
-<img align="left" alt="idankap's Github Stats" src="https://github-readme-stats.idankap.vercel.app/api?username=idankap&show_icons=true&hide_border=true" />
-
 [instagram]: https://www.instagram.com/idankapustian/
 [gmail]: https://idan.kapustian@gmail.com/
 [vscode]: https://code.visualstudio.com/
